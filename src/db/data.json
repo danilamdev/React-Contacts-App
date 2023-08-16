@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "first_name": "Stern",
+    "last_name": "d'Arcy",
+    "email": "sdarcy0@telegraph.co.uk",
+    "job": "Senior Editor",
+    "phone_number": "296-183-6731"
+  },
+  {
+    "id": 2,
+    "first_name": "Shayna",
+    "last_name": "Manis",
+    "email": "smanis1@blinklist.com",
+    "job": "Chemical Engineer",
+    "phone_number": "378-989-9172"
+  },
+  {
+    "id": 3,
+    "first_name": "Lucie",
+    "last_name": "Cullerne",
+    "email": "lcullerne2@pagesperso-orange.fr",
+    "job": "Media Manager III",
+    "phone_number": "978-690-4290"
+  },
+  {
+    "id": 4,
+    "first_name": "Bradney",
+    "last_name": "Danielsson",
+    "email": "bdanielsson3@salon.com",
+    "job": "Payment Adjustment Coordinator",
+    "phone_number": "854-591-4289"
+  },
+  {
+    "id": 5,
+    "first_name": "Holmes",
+    "last_name": "Manhood",
+    "email": "hmanhood4@typepad.com",
+    "job": "Software Engineer II",
+    "phone_number": "593-451-2055"
+  },
+  {
+    "id": 6,
+    "first_name": "Rhetta",
+    "last_name": "Reboulet",
+    "email": "rreboulet5@ed.gov",
+    "job": "Budget/Accounting Analyst I",
+    "phone_number": "956-229-6267"
+  },
+  {
+    "id": 7,
+    "first_name": "Karalynn",
+    "last_name": "Garling",
+    "email": "kgarling6@spotify.com",
+    "job": "Community Outreach Specialist",
+    "phone_number": "617-889-4954"
+  },
+  {
+    "id": 8,
+    "first_name": "Dal",
+    "last_name": "Mollnar",
+    "email": "dmollnar7@dmoz.org",
+    "job": "Senior Sales Associate",
+    "phone_number": "870-619-4755"
+  },
+  {
+    "id": 9,
+    "first_name": "Finley",
+    "last_name": "Girardeau",
+    "email": "fgirardeau8@google.pl",
+    "job": "Health Coach III",
+    "phone_number": "329-452-5267"
+  },
+  {
+    "id": 10,
+    "first_name": "Robin",
+    "last_name": "Courcey",
+    "email": "rcourcey9@github.com",
+    "job": "Office Assistant II",
+    "phone_number": "916-397-5447"
+  },
+  {
+    "id": 11,
+    "first_name": "Hallsy",
+    "last_name": "Stanney",
+    "email": "hstanneya@google.co.jp",
+    "job": "Administrative Assistant II",
+    "phone_number": "754-765-3865"
+  },
+  {
+    "id": 12,
+    "first_name": "Quinn",
+    "last_name": "Simunek",
+    "email": "qsimunekb@ebay.com",
+    "job": "Human Resources Assistant I",
+    "phone_number": "682-251-9380"
+  },
+  {
+    "id": 13,
+    "first_name": "Wernher",
+    "last_name": "McGeady",
+    "email": "wmcgeadyc@gmpg.org",
+    "job": "Data Coordinator",
+    "phone_number": "403-403-9271"
+  },
+  {
+    "id": 14,
+    "first_name": "Cherianne",
+    "last_name": "Kennon",
+    "email": "ckennond@blinklist.com",
+    "job": "Programmer III",
+    "phone_number": "670-557-9175"
+  },
+  {
+    "id": 15,
+    "first_name": "Noelani",
+    "last_name": "Rafferty",
+    "email": "nraffertye@quantcast.com",
+    "job": "GIS Technical Architect",
+    "phone_number": "369-224-7189"
+  },
+  {
+    "id": 16,
+    "first_name": "Livy",
+    "last_name": "Carbonell",
+    "email": "lcarbonellf@zimbio.com",
+    "job": "Actuary",
+    "phone_number": "217-378-5178"
+  },
+  {
+    "id": 17,
+    "first_name": "Sarine",
+    "last_name": "Baskerfield",
+    "email": "sbaskerfieldg@zimbio.com",
+    "job": "Geological Engineer",
+    "phone_number": "756-623-5692"
+  },
+  {
+    "id": 18,
+    "first_name": "Brion",
+    "last_name": "Boldero",
+    "email": "bbolderoh@theglobeandmail.com",
+    "job": "Data Coordinator",
+    "phone_number": "241-737-6440"
+  },
+  {
+    "id": 19,
+    "first_name": "Alison",
+    "last_name": "Sowood",
+    "email": "asowoodi@de.vu",
+    "job": "Web Developer III",
+    "phone_number": "783-656-5744"
+  },
+  {
+    "id": 20,
+    "first_name": "Maxie",
+    "last_name": "Ballintyne",
+    "email": "mballintynej@whitehouse.gov",
+    "job": "VP Sales",
+    "phone_number": "519-148-0465"
+  }
+]
