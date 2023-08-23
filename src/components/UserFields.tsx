@@ -3,7 +3,7 @@ import { type Contact } from '../types'
 
 import { wait } from '../utils/wait'
 
-import { Close } from '@radix-ui/react-dialog'
+import { Close as ModalClose } from '@radix-ui/react-dialog'
 
 import { Spinner } from './Spinner'
 
@@ -66,7 +66,7 @@ export function UserFields ({ contact, onUpdate, afterSave }: Props) {
           <input defaultValue={job} type="text" id='job' name='job' className='border border-slate-300 rounded py-1 pl-4 w-full focus:outline focus:outline-1 focus:outline-slate-400' />
         </div>
         <div className='text-right space-x-8 mr-4'>
-          <Close className='hover:bg-slate-100 px-4 py-2 rounded text-sm'>Cancel</Close>
+          <ModalClose className='hover:bg-slate-100 px-4 py-2 rounded text-sm'>Cancel</ModalClose>
           <button className='inline-flex items-center justify-center px-5 py-2 bg-emerald-200 text-sm rounded hover:bg-emerald-300 font-medium  text-emerald-800 relative group-disabled:pointer-events-none'>
             <Spinner className='h-4 absolute group-enabled:opacity-0' />
             <span className='group-disabled:opacity-0'>Save</span>

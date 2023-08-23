@@ -3,7 +3,7 @@ import { useContacts } from './hooks/useContacts.ts'
 import { Search } from './components/Search.tsx'
 import { ContactsList } from './components/ContactsList.tsx'
 import { NoContacts } from './components/NoContacts.tsx'
-import { FavIcon } from './components/icons/SadIcon.tsx'
+import { FavIcon } from './components/icons/Icons.tsx'
 import './App.css'
 
 import { ContactForm } from './components/ContactForm.tsx'

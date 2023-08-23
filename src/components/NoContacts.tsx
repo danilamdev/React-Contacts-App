@@ -1,5 +1,5 @@
 import type { Contact, ContactList } from '../types.d'
-import { SadIcon } from './icons/SadIcon'
+import { SadIcon } from './icons/Icons'
 
 interface Props {
   setInitContacts: (contacts: ContactList) => void
